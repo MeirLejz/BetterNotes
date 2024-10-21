@@ -1,0 +1,495 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-8107-aefd-ee000bde68d3",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Context for Kazuo Ishiguro in the 90s",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Context for Kazuo Ishiguro in the 90s",
+                        "href": null
+                    }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-81fb-9661-e387d01536e1",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "quote",
+            "quote": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "How did social, cultural and political events in Britain during the 1990s shape contemporary British Fiction?\u00a0",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "How did social, cultural and political events in Britain during the 1990s shape contemporary British Fiction?\u00a0",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-817e-8874-ce727abd335e",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "appended at position 2",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "appended at position 2",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-8148-bc64-fea2dca253eb",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "From the fall of the Berlin Wall to the turn of the millennium, the 1990s witnessed a realignment of global politics. Against the changing international scene, this volume uses events abroad and in Britain to examine and explain the changes taking place in British fiction, including: the celebration of national identities, fuelled by the move toward political devolution in Northern Ireland, Scotland and Wales; the literary optimism in urban ethnic fictions written by a new generation of authors, born and raised in Britain; the popularity of neo-Victorian fiction.\u00a0",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "From the fall of the Berlin Wall to the turn of the millennium, the 1990s witnessed a realignment of global politics. Against the changing international scene, this volume uses events abroad and in Britain to examine and explain the changes taking place in British fiction, including: the celebration of national identities, fuelled by the move toward political devolution in Northern Ireland, Scotland and Wales; the literary optimism in urban ethnic fictions written by a new generation of authors, born and raised in Britain; the popularity of neo-Victorian fiction.\u00a0",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-8147-94cc-c6381e8911a2",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Critical surveys are balanced by in-depth readings of work by the authors who defined the decade, including A.S. Byatt, Hanif Kureishi, Will Self, Caryl Phillips and Irvine Welsh: an approach that illustrates exactly how their key themes and concerns fit within the social and political circumstances of the decade.\" \u2014 ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Critical surveys are balanced by in-depth readings of work by the authors who defined the decade, including A.S. Byatt, Hanif Kureishi, Will Self, Caryl Phillips and Irvine Welsh: an approach that illustrates exactly how their key themes and concerns fit within the social and political circumstances of the decade.\" \u2014 ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Bloomsbury",
+                            "link": {
+                                "url": "https://www.bloomsbury.com/us/1990s-the-a-decade-of-contemporary-british-fiction-9781441172587/"
+                            }
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Bloomsbury",
+                        "href": "https://www.bloomsbury.com/us/1990s-the-a-decade-of-contemporary-british-fiction-9781441172587/"
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": " ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": " ",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-81ed-bbc0-e9da70f78568",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-8198-859d-ca723a90a4fd",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "This is a new paragraph added to the Notion page.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "This is a new paragraph added to the Notion page.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-810b-9755-fdab48104d27",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-814f-95d1-d49626b17727",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "This is a new paragraph added to the Notion page.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "This is a new paragraph added to the Notion page.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-8104-b8f7-cf36037dcf6b",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "This is a new paragraph added to the Notion page.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "This is a new paragraph added to the Notion page.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1264935e-5ec7-817d-aeb2-cf68e48ddc20",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1234935e-5ec7-81f8-bfa4-c421fb658637"
+            },
+            "created_time": "2024-10-21T20:08:00.000Z",
+            "last_edited_time": "2024-10-21T20:08:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "780e6980-b68e-4d17-b8d6-58b4152bfeb8"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "This is a new paragraph added to the Notion page.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "This is a new paragraph added to the Notion page.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "block",
+    "block": {},
+    "request_id": "bd02fc8e-96fd-4548-a153-f748e86a58cb"
+}
